@@ -1,0 +1,29 @@
+public class ConstOverloading
+{
+  int id;
+  String name;
+  int age;
+  ConstOverloading(int i,String n)
+  {
+      id=i;
+      name=n;
+  } 
+  ConstOverloading(int i,String n,int a)
+  {
+      id=i;
+      name=n;
+      age=a;
+  }
+  void display()
+  {
+      
+      System.out.println(id+" "+name+""+age);
+  }
+  public static void main(String args[])
+  {
+      ConstOverloading s1=new ConstOverloading(5,"ashi");
+      ConstOverloading s2=new ConstOverloading(10,"vatsal",20);
+      s1.display();
+      s2.display();
+  }
+}
