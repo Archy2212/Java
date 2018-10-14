@@ -1,0 +1,19 @@
+Assignment 1
+
+1.           How WWW is different from Internet?
+
+2.           What is role of HTTP in WWW?
+
+3.           Explain HTTP request and response model.
+
+4.           Differentiate HTTP with HTTPS.
+
+5.           What is the role of Web Browser? Give the name of 5 browsers.
+
+6.           What is use of Web Server? Give at least 5 web server name.
+
+7.           Compare Web 2.0 with Web 3.0.
+
+8.           Explain the concepts of effective web designing.
+
+9.           How web designing issues affect web development process. Explain with proper examples. 
