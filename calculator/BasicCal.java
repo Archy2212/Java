@@ -5,8 +5,6 @@ public class BasicCal{
         System.out.println(2-3);
         
         
-    }
-    
-    
+    }   
     
 }
