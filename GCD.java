@@ -11,6 +11,6 @@ public class GCD {
                 gcd = i;
         }
 
-        System.out.printf("GCD of %d and %d is %d", n1, n2, gcd);
+        System.out.printf("GCD of %d and %d is %d" , n1, n2, gcd);
     }
 }
