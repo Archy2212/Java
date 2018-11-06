@@ -4,5 +4,5 @@ public class BasicCal{
         System.out.println(6*3);
         System.out.println(6-4);   
     }   
-    
+   
 }
