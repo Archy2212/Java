@@ -1,4 +1,4 @@
-//dowhile program
+//do-while program
 public class DoWhileEx
 {
     public static void main(String args[])
