@@ -6,7 +6,6 @@ public class StringVar{
         // how toLowerCase() and toUpperCase() works??
         System.out.println(firstName.toUpperCase());
         System.out.println(lastName.toLowerCase());
-
     }
     
 }
