@@ -3,7 +3,6 @@ public class StringVar{
         String firstName = "Archy ";
         String lastName = "Mathur";
         System.out.println(firstName+ " " + lastName);
-
         // how toLowerCase() and toUpperCase() works??
 
         System.out.println(firstName.toUpperCase());
