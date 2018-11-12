@@ -16,7 +16,6 @@ public class ConstOverloading
   }
   void display()
   {
-      
       System.out.println(id+" "+name+""+age);
   }
   public static void main(String args[])
