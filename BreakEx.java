@@ -10,6 +10,7 @@ public class BreakEx
             break;
             }
         
+            
         System.out.println(i);      
         }
     }
