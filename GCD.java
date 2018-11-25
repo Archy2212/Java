@@ -6,7 +6,7 @@ public class GCD {
 
         for(int i = 1; i <= n1 && i <= n2; ++i)
         {
-            //Checks if i is factor of both integer
+            //Checks if i is factor of both integer 
             if(n1 % i==0 && n2 % i==0)
                 gcd = i;
         }
