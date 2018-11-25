@@ -14,3 +14,4 @@ public class GCD {
         System.out.printf("GCD of %d and %d is %d" , n1, n2, gcd);
     }
 }
+
