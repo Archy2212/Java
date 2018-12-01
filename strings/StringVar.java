@@ -1,6 +1,7 @@
 public class StringVar
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         String firstName = "Archy ";
         String lastName = "Mathur";
         System.out.println(firstName+ " " + lastName);
