@@ -1,4 +1,5 @@
-public class StringVar{
+public class StringVar
+{
     public static void main(String[] args) {
         String firstName = "Archy ";
         String lastName = "Mathur";
