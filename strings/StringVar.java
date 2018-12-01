@@ -1,5 +1,6 @@
 public class StringVar
 {
+    
     public static void main(String[] args)
     {
         String firstName = "Archy ";
