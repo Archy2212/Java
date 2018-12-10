@@ -28,6 +28,5 @@ public class ConstOverloading
       s1.display();
       s2.display();
   }
-  
-}
+  }
 
