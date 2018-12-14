@@ -18,5 +18,4 @@ public class Switch3
         }
         System.out.println("Your Level is" +level);
     }
-    
-}
+    }
